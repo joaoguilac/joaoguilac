@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=dark)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=blueberry)
--->
