@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=chartreuse-dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact" />
