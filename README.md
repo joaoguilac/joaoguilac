@@ -26,7 +26,7 @@
       <a href="https://github.com/joaoguilac/github-readme-stats"><img alt="João Guilherme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact" /></a><br/><br/>
       <b>Profile stats :musical_keyboard:</b><br/>
       <a href="https://github.com/joaoguilac/github-readme-stats"><img alt="João Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=chartreuse-dark" /></a><br/><br/>
-      <b>Activity Graph 📈</b><br/>
+      <b>Activity Graph :chart_with_upwards_trend:</b><br/>
       <a href="https://github.com/joaoguilac/github-readme-activity-graph"><img alt="João Guilherme's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&bg_color=000&color=7fff00&line=fff&point=00AEFF&hide_border=true" /></a>
    </div>
 </details>
@@ -40,7 +40,7 @@
       <a href="https://github.com/joaoguilac/github-readme-stats"><img alt="João Guilherme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=react&layout=compact" /></a><br/><br/>
       <b>Profile stats :musical_keyboard:</b><br/>
       <a href="https://github.com/joaoguilac/github-readme-stats"><img alt="João Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=react" /></a><br/><br/>
-      <b>Activity Graph 📈</b><br/>
+      <b>Activity Graph :chart_with_upwards_trend:</b><br/>
       <a href="https://github.com/joaoguilac/github-readme-activity-graph"><img alt="João Guilherme's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark" /></a>
    </div>
 </details>
