@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<p align="center"><img src="https://i.pinimg.com/originals/9b/7a/9f/9b7a9f03a571f03185f83083b681b033.gif" alt="Synthwave" height="300" width="200"></p>
+<p align="center"><img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" alt="Synthwave" height="300" width="200"></p>
 
 <!-- Estatísticas -->
 ## 📊 Github stats
