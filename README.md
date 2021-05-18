@@ -17,7 +17,7 @@
 
     <p align="center"><img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" alt="Synthwave" height="300" width="200"></p> -->
     
-    <a href="https://github.com/joaoguilac/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+        <a href="https://github.com/joaoguilac/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 <!-- Estatísticas -->
