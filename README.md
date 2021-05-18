@@ -7,11 +7,11 @@
 
 <h4 align="center">Top Languages :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact" alt="JG - Top Languages" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=chartreuse-dark" alt="JG - Profile Stats" /></p>
 
 <p align="center"><img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" alt="Synthwave" height="300" width="200"></p>
 
