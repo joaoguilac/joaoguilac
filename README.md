@@ -3,9 +3,9 @@
 <!-- Contagem de visitantes -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-    <h4 align="center">Visitor's count :eyes:</h4>
+    <a align="center">Visitor's count :eyes:</a>
 
-    <p align="center"><img src="https://profile-counter.glitch.me/{joaoguilac}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{joaoguilac}/count.svg" alt="JG - Visitor's Count" /></p>
 
     <h4 align="center">Top Languages :tongue:</h4>
 
