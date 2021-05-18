@@ -5,9 +5,9 @@
   <summary>💻 GitHub Profile Stats</summary>
     <a align="center">Visitor's count :eyes:</a>
 
-    <p align="center"><img src="https://profile-counter.glitch.me/{joaoguilac}/count.svg" alt="JG - Visitor's Count" /></p>
+    <a align="center"><img src="https://profile-counter.glitch.me/{joaoguilac}/count.svg" alt="JG - Visitor's Count" /></a>
 
-    <h4 align="center">Top Languages :tongue:</h4>
+    <a align="center">Top Languages :tongue:</a>
 
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact" alt="JG - Top Languages" /></p>
 
