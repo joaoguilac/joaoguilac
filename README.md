@@ -2,6 +2,7 @@
 
 <!-- Contagem de visitantes -->
 <details> 
+    <summary>💻 GitHub Profile Stats</summary>
     <h4 align="center">Visitor's count :eyes:</h4>
 
     <p align="center"><img src="https://profile-counter.glitch.me/{joaoguilac}/count.svg" alt="JG - Visitor's Count" /></p>
