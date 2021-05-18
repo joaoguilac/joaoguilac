@@ -21,7 +21,7 @@
   <summary>💻 GitHub Profile Stats 1</summary>
     <div align="center">
       <b>Visitor's count :eyes:</b><br/>
-      <a href="https://profile-counter.glitch.me/{joaoguilac}/count.svg"><img alt="JG - Visitor's Count" src="https://profile-counter.glitch.me/{joaoguilac}/count.svg"/></a><br/><br/>
+      <a href="https://profile-counter.glitch.me/{joaoguilac}/count.svg"><img src="https://profile-counter.glitch.me/{joaoguilac}/count.svg" alt="JG - Visitor's Count" /></a><br/><br/>
       <b>Top Languages :tongue:</b><br/>
       <a href="https://github.com/joaoguilac/github-readme-stats"><img alt="João Guilherme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact" /></a><br/><br/>
       <b>Profile stats :musical_keyboard:</b><br/>
