@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=algoliacustom_title=teste)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=blueberry&layout=compact)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoguilac&repo=ITP)](https://github.com/joaoguilac/ITP)
