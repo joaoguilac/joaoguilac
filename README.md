@@ -23,11 +23,11 @@
       <b>Visitor's count :eyes:</b><br/>
       <a href="https://profile-counter.glitch.me/{joaoguilac}/count.svg"><img src="https://profile-counter.glitch.me/{joaoguilac}/count.svg" alt="JG - Visitor's Count" /></a><br/><br/>
       <b>Top Languages :tongue:</b><br/>
-      <a href="https://github.com/joaoguilac/github-readme-stats"><img alt="João Guilherme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact" /></a><br/><br/>
+      <a href="https://github.com/joaoguilac/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact" alt="João Guilherme's Top Languages" /></a><br/><br/>
       <b>Profile stats :musical_keyboard:</b><br/>
-      <a href="https://github.com/joaoguilac/github-readme-stats"><img alt="João Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=chartreuse-dark" /></a><br/><br/>
+      <a href="https://github.com/joaoguilac/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=chartreuse-dark" alt="João Guilherme's Github Stats" /></a><br/><br/>
       <b>Activity Graph :chart_with_upwards_trend:</b><br/>
-      <a href="https://github.com/joaoguilac/github-readme-activity-graph"><img alt="João Guilherme's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&bg_color=000&color=7fff00&line=fff&point=00AEFF&hide_border=true" /></a><br/><br/>
+      <a href="https://github.com/joaoguilac/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&bg_color=000&color=7fff00&line=fff&point=00AEFF&hide_border=true" alt="João Guilherme's Activity Graph" /></a><br/><br/>
       <a href="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif"><img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" alt="Synthwave" height="300" width="200"></a>
    </div>
 </details>
@@ -36,13 +36,13 @@
   <summary>💻 GitHub Profile Stats 2</summary>
     <div align="center">
       <b>Visitor's count :eyes:</b><br/>
-      <a href="https://profile-counter.glitch.me/{joaoguilac}/count.svg"><img alt="JG - Visitor's Count" src="https://profile-counter.glitch.me/{joaoguilac}/count.svg" /></a><br/><br/>
+      <a href="https://profile-counter.glitch.me/{joaoguilac}/count.svg"><img src="https://profile-counter.glitch.me/{joaoguilac}/count.svg" alt="JG - Visitor's Count" /></a><br/><br/>
       <b>Top Languages :tongue:</b><br/>
-      <a href="https://github.com/joaoguilac/github-readme-stats"><img alt="João Guilherme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=react&layout=compact" /></a><br/><br/>
+      <a href="https://github.com/joaoguilac/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=react&layout=compact" alt="João Guilherme's Top Languages" /></a><br/><br/>
       <b>Profile stats :musical_keyboard:</b><br/>
-      <a href="https://github.com/joaoguilac/github-readme-stats"><img alt="João Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=react" /></a><br/><br/>
+      <a href="https://github.com/joaoguilac/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=react" alt="João Guilherme's Github Stats" /></a><br/><br/>
       <b>Activity Graph :chart_with_upwards_trend:</b><br/>
-      <a href="https://github.com/joaoguilac/github-readme-activity-graph"><img alt="João Guilherme's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark" /></a><br/><br/>
+      <a href="https://github.com/joaoguilac/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark" alt="João Guilherme's Activity Graph" /></a><br/><br/>
       <a href="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif"><img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" alt="Synthwave" height="300" width="200"></a>
    </div>
 </details>
