@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=dark)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=blueberry)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilac)](https://github.com/joaoguilac/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilac&hide=contribs,prs)
