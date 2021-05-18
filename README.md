@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=radical)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=blueberry)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilac)](https://github.com/joaoguilac/github-readme-stats)
