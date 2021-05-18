@@ -1,12 +1,13 @@
-### Hi there 🤙
+## Hi there 🤙
 
-<!-- Contagem de visitantes
+<!-- Contagem de visitantes -->
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{joaoguilac}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
+<!-- Estatísticas -->
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
