@@ -11,8 +11,9 @@ I'm a Bachelor in Information Technology (BTI) at the Federal University of Rio 
   <img align="center" alt="João-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-#
+
 <!-- Estatísticas -->
+#
 <details> 
   <summary>📊 GitHub Profile Stats 1</summary>
     <div align="center">
@@ -41,15 +42,16 @@ I'm a Bachelor in Information Technology (BTI) at the Federal University of Rio 
    </div>
 </details>
 
-#
 <!-- Redes Sociais -->
 <!-- ## 📲 Contacts -->
+#
 <div align="center">
   <a href="mailto:joguicosta1156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/joaoguilac" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
 <div align="center">
-  ![Snake animation](https://github.com/joaoguilac/joaoguilac/blob/output/github-contribution-grid-snake.svg)
   <a href="https://data.whicdn.com/images/249156306/original.gif"><img src="https://data.whicdn.com/images/249156306/original.gif" alt="Synthwave" ></a>
 </div>
+
+![Snake animation](https://github.com/joaoguilac/joaoguilac/blob/output/github-contribution-grid-snake.svg)
