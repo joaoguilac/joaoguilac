@@ -15,16 +15,7 @@ I'm a Bachelor in Information Technology (BTI) at the Federal University of Rio 
 <!-- Estatísticas -->
 #
 <details> 
-  <summary>📊 GitHub Profile Stats 1</summary>
-    <div align="center">
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=chartreuse-dark&layout=compact" alt="João Guilherme's Top Languages" /></a><br/><br/>
-      <a href="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=chartreuse-dark" alt="João Guilherme's Github Stats"><img src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=chartreuse-dark" alt="João Guilherme's Github Stats" /></a><br/><br/>
-      <a href="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark"><img src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark" alt="João Guilherme's Activity Graph" /></a>
-   </div>
-</details>
-
-<details> 
-  <summary>📊 GitHub Profile Stats 2</summary>
+  <summary>📊 GitHub Profile Stats</summary>
     <div align="center">
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=react&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=react&layout=compact" alt="João Guilherme's Top Languages" /></a><br/><br/>
       <a href="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=react"><img src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=react" alt="João Guilherme's Github Stats" /></a><br/><br/>
