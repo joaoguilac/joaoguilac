@@ -33,6 +33,6 @@ I'm a Bachelor in Information Technology (BTI) at the Federal University of Rio 
 </div>
 
 #
-<a href="https://github.com/rafaballerini/rafaballerini/blob/main/README.md">💡 Inpiration</a>
+💡 <a href="https://github.com/rafaballerini/rafaballerini/blob/main/README.md">Inpiration</a>
 
 ----
