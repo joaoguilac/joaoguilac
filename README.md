@@ -1,7 +1,7 @@
 # Hello World! 🤙
 
 <!-- Eu -->
-I'm a Bachelor in Information Technology (BTI) at the Universidade Federal do Rio Grande do Norte (UFRN).
+I'm a information technology student at the Universidade Federal do Rio Grande do Norte (UFRN).
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="João-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
