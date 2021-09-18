@@ -1,19 +1,32 @@
 # Hello World! 🤙
 
 <!-- Eu -->
-I'm an information technology student at the Universidade Federal do Rio Grande do Norte (UFRN).
+### About Me
 
-<div align="center" style="display: inline_block">
+- 🎓 I'm studying information technology at IMD - UFRN.
+- 👨‍💻 My areas of interest currently are information security and web development.
+- 💬 I like programming, games, sports (especially ⚽) and cinema.
+- 🤯 I'm studying Java and JavaScript.
+
+<!-- <div align="center" style="display: inline_block">
   <img align="center" alt="João-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="João-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="João-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="João-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="João-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
+  <img align="center" alt="João-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="João-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+</div> -->
+
+<!-- Redes Sociais -->
+### Social media
+<div>
+  <a href="mailto:joguicosta1156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/joaoguilac" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/joaoguilac" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div><br>
 
 <!-- Estatísticas -->
-#
+### Github profile
 <details> 
   <summary>📊 GitHub Profile Stats</summary>
     <div align="center">
@@ -25,14 +38,7 @@ I'm an information technology student at the Universidade Federal do Rio Grande 
 
 ![Snake animation](https://github.com/joaoguilac/joaoguilac/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Redes Sociais -->
-<div align="center">
-  <a href="mailto:joguicosta1156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/joaoguilac" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/joaoguilac" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
-
-#
-💡 <a href="https://github.com/rafaballerini/rafaballerini/blob/main/README.md">Inpiration</a>
+<!-- #
+💡 <a href="https://github.com/rafaballerini/rafaballerini/blob/main/README.md">Inpiration</a> -->
 
 ----
