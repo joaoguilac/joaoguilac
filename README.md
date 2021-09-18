@@ -4,9 +4,9 @@
 ### About Me
 
 - 🎓 I'm studying information technology at IMD - UFRN.
+- 🤯 I'm learning Java and JavaScript.
 - 👨‍💻 My areas of interest currently are information security and web development.
 - 💬 I like programming, games, sports (especially ⚽) and cinema.
-- 🤯 I'm studying Java and JavaScript.
 
 <!-- <div align="center" style="display: inline_block">
   <img align="center" alt="João-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
