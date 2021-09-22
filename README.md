@@ -1,7 +1,7 @@
 # Hello World! 🤙
 
 <!-- Eu -->
-### About Me
+### About me
 
 - 🎓 I'm studying information technology at IMD - UFRN.
 - 🤯 I'm learning Java and JavaScript.
