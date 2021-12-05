@@ -36,7 +36,7 @@
     </div>
 </details>
 
-![Snake animation](https://github.com/joaoguilac/joaoguilac/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/joaoguilac/joaoguilac/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- #
 💡 <a href="https://github.com/rafaballerini/rafaballerini/blob/main/README.md">Inpiration</a> -->
