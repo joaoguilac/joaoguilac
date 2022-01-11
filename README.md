@@ -3,7 +3,7 @@
 <!-- Eu -->
 ### About me
 
-- 🎓 I'm studying information technology at IMD - UFRN.
+- 🎓 I'm studying Information Technology at IMD - UFRN.
 - 🤯 I'm learning Java and JavaScript.
 - 👨‍💻 My areas of interest currently are information security and web development.
 - 💬 I like programming, games, sports (especially ⚽) and cinema.
