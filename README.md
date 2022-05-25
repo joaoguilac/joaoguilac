@@ -32,7 +32,7 @@
     <div align="center">
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=react&langs_count=8"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&theme=react&langs_count=8" alt="João Guilherme's Top Languages" /></a><br/><br/>
       <a href="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=react"><img src="https://github-readme-stats.vercel.app/api?username=joaoguilac&show_icons=true&theme=react" alt="João Guilherme's Github Stats" /></a><br/><br/>
-      <a href="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark"><img src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark" alt="João Guilherme's Activity Graph" /></a>
+<!--       <a href="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark"><img src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark" alt="João Guilherme's Activity Graph" /></a> -->
     </div>
 </details>
 
