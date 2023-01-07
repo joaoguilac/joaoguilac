@@ -3,7 +3,7 @@
 ### About me
 
 - 🎓 I'm studying Information Technology at [IMD](https://www.imd.ufrn.br/portal/) - [UFRN](https://www.ufrn.br/).
-- 🤯 I'm learning Spring and Flutter.
+- 🤯 I'm learning Spring and React.
 - 👨‍💻 My areas of interest currently are Information Security and Web Development.
 - 💬 I like programming, games, sports (especially ⚽) and cinema.
 
@@ -17,40 +17,35 @@
 ### Profile
 <details>
   <summary>🛠️ Tools</summary>
-  <div align="center" style="display: inline_block">
+  <div style="display: inline_block">
     <h3>Front-end</h3>
-      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-      <img align="center" alt="NuxtJS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
-      <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,flutter" />
+    </a>
     <h3>Back-end</h3>
-      <img align="center" alt="Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-      <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-      <img align="center" alt="Firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql,firebase" />
+    </a>
     <h3>Infra</h3>
-      <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      <img align="center" alt="Bash" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-      <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,bash,docker" />
+    </a>
     <h3>Other languages</h3>
-      <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="C-language" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-      <img align="center" alt="C++" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+    </a>
   </div>
 </details>
 
 <details> 
   <summary>📊 GitHub Stats</summary>
-    <div align="center"><br>
+    <div><br>
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&layout=compact&theme=react&langs_count=8">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilac&layout=compact&theme=react&langs_count=8" alt="João Guilherme's Top Languages"/>
       </a>
       <a href="https://github-readme-stats.vercel.app/api?username=joaoguilac&count_private=true&show_icons=true&theme=react">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoguilac&count_private=true&show_icons=true&theme=react" alt="João Guilherme's Github Stats"/>
-      </a><br/><br/>
-<!--       <a href="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark"><img src="https://activity-graph.herokuapp.com/graph?username=joaoguilac&theme=react-dark" alt="João Guilherme's Activity Graph" /></a> -->
+      </a>
     </div>
 </details>
 
