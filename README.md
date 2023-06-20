@@ -16,7 +16,7 @@
 
 ### Profile
 <details>
-  <summary>🛠️ Tools</summary>
+  <summary>🛠️ Skills</summary>
   <div style="display: inline_block">
     <h3>Front-end</h3>
     <a href="https://skillicons.dev">
