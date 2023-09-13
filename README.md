@@ -7,7 +7,7 @@
 - 👨‍💻 My areas of interest currently are Cyber Security and Web Development.
 - 💬 I like programming, games, sports (especially ⚽) and cinema.
 
-### Social media
+### Follow me
 <div>
   <a href="mailto:joguicosta1156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/joaoguilac" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -20,7 +20,7 @@
   <div style="display: inline_block">
     <h3>Front-end</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,flutter" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,flutter" />
     </a>
     <h3>Back-end</h3>
     <a href="https://skillicons.dev">
