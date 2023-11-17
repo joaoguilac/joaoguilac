@@ -3,8 +3,8 @@
 ### About me
 
 - 🎓 I'm an Information Technology student at [IMD](https://www.imd.ufrn.br/portal/) - [UFRN](https://www.ufrn.br/).
-- 🤯 I'm learning Spring and React.
-- 👨‍💻 My areas of interest currently are Cyber Security and Web Development.
+- 🤯 I'm learning Spring, React and Solidity.
+- 👨‍💻 My areas of interest currently are Cyber Security, Web Development and Data Science.
 - 💬 I like programming, games, sports (especially ⚽) and cinema.
 
 ### Follow me
