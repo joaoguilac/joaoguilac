@@ -3,11 +3,12 @@
 ### About me
 
 - 🎓 I'm an Information Technology student at [IMD](https://www.imd.ufrn.br/portal/) - [UFRN](https://www.ufrn.br/).
-- 🤯 I'm learning Spring, React and Solidity.
+- 🤯 I'm learning Rust and Solidity.
 - 👨‍💻 My areas of interest currently are Cyber Security, Web Development and Data Science.
 - 💬 I like programming, games, sports (especially ⚽) and cinema.
 
 ### Follow me
+
 <div>
   <a href="mailto:joguicosta1156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/joaoguilac" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,6 +17,7 @@
 </div>
 
 ### Profile
+
 <details>
   <summary>🛠️ Skills</summary>
   <div style="display: inline_block">
@@ -27,7 +29,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,spring,mysql,firebase" />
     </a>
-    <h3>Infra</h3>
+    <h3>Operations</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=linux,bash,docker" />
     </a>
@@ -55,4 +57,4 @@
 <!-- #
 💡 <a href="https://github.com/rafaballerini/rafaballerini/blob/main/README.md">Inpiration</a> -->
 
-----
+---
