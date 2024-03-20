@@ -4,7 +4,7 @@
 
 - 🎓 I'm an Information Technology student at [IMD](https://www.imd.ufrn.br/portal/) - [UFRN](https://www.ufrn.br/).
 - 🤯 I'm learning Rust and Solidity.
-- 👨‍💻 My areas of interest currently are Cyber Security, Software Engineering and Data Science.
+- 👨‍💻 My areas of interest currently are Cyber Security, Software Engineering, Data Structures and Data Science.
 - 💬 I like programming, games, sports (especially ⚽) and cinema.
 
 ### Follow me
