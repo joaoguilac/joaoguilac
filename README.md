@@ -33,6 +33,20 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=linux,bash,docker" />
     </a>
+    <h3>Security</h3>
+    <a href="https://www.kali.org/tools/">
+      <img src="security-tools/kali-wireshark.png" />
+      <img src="security-tools/kali-nmap.png" />
+      <img src="security-tools/kali-metasploit-framework.png" />
+      <img src="security-tools/kali-burpsuite.png" />
+      <img src="security-tools/kali-gobuster.png" />
+      <img src="security-tools/kali-ffuf.png" />
+      <img src="security-tools/kali-hashcat.png" />
+      <img src="security-tools/kali-hydra.png" />
+      <img src="security-tools/kali-john.png" />
+      <img src="security-tools/kali-snort.png" />
+      <img src="security-tools/kali-sqlmap.png" />
+    </a>
     <h3>Other languages</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,c,cpp" />
