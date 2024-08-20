@@ -31,9 +31,9 @@
     </a>
     <h3>Operations</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,bash,docker" />
+      <img src="https://skillicons.dev/icons?i=linux,bash,gitlab,kali,docker,kubernetes" />
     </a>
-    <h3>Security</h3>
+<!--     <h3>Security</h3>
     <a href="https://www.kali.org/tools/">
       <img src="security-tools/kali-wireshark.png" />
       <img src="security-tools/kali-nmap.png" />
@@ -46,7 +46,7 @@
       <img src="security-tools/kali-john.png" />
       <img src="security-tools/kali-snort.png" />
       <img src="security-tools/kali-sqlmap.png" />
-    </a>
+    </a> -->
     <h3>Other languages</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,c,cpp" />
