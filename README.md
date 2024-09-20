@@ -2,8 +2,9 @@
 
 ### About me
 
-- 🎓 I'm an Information Technology student at [IMD](https://www.imd.ufrn.br/portal/) - [UFRN](https://www.ufrn.br/).
-- 🤯 I'm learning Rust and Solidity.
+- 🎓 Bachelor of Information Technology from [IMD](https://www.imd.ufrn.br/portal/) - [UFRN](https://www.ufrn.br/).
+- 🎓 I'm a student of Computer Science at [DIMAP](https://dimap.ufrn.br/) - [UFRN](https://www.ufrn.br/).
+- 🤯 I'm learning DevOps and Deep Learning.
 - 👨‍💻 My areas of interest currently are Cyber Security, Software Engineering, Data Structures and Data Science.
 - 💬 I like programming, games, sports (especially ⚽) and cinema.
 
@@ -23,11 +24,11 @@
   <div style="display: inline_block">
     <h3>Front-end</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,flutter" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,flutter" />
     </a>
     <h3>Back-end</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,mysql,firebase" />
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql,firebase,solidity" />
     </a>
     <h3>Operations</h3>
     <a href="https://skillicons.dev">
