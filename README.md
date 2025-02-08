@@ -5,8 +5,8 @@
 - 🎓 Bachelor of Information Technology from [IMD](https://www.imd.ufrn.br/portal/) - [UFRN](https://www.ufrn.br/).
 - 🎓 I'm a student of Computer Science at [DIMAP](https://dimap.ufrn.br/) - [UFRN](https://www.ufrn.br/).
 - 🤯 I'm learning DevOps and Deep Learning.
-- 👨‍💻 My areas of interest currently are Cyber Security, Software Engineering, Data Structures and Data Science.
-- 💬 I like programming, games, sports (especially ⚽) and cinema.
+- 👨‍💻 My areas of interest are Cyber Security, Software Engineering, Data Structures and Data Science.
+- 💬 I like technology, sports (especially ⚽) and cinema.
 
 ### Follow me
 
