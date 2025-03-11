@@ -28,7 +28,7 @@
     </a>
     <h3>Back-end</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,mysql,firebase,solidity" />
+      <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,firebase,solidity" />
     </a>
     <h3>Operations</h3>
     <a href="https://skillicons.dev">
